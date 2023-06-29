@@ -33,3 +33,8 @@ SerialTerm-1226 : SerialTerm
 Seven Segment-1051 : Seven Segment   
 Voltimeter-708 : Voltimeter  V
 atmega328-2 : atmega328   
+
+Vitor Hugo de Souza Antonio https://github.com/souzavitorhugo
+Vinicius Fritzen https://github.com/vini-fritzen
+Guilherme Franciso https://github.com/guifrancisco96
+Douglas Cardoso https://github.com/douglascar
