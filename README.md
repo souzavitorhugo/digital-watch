@@ -1,4 +1,4 @@
-# digital-watch
+# Relógio Digital
 
 Relógio digital em um ATmega328p standalone.
 
